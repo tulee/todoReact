@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 36%;
+    margin: auto;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    border-bottom: 1px grey solid;
+    margin-bottom: 15px;
+}
+
+.menuItem{
+    padding: 5px 20px;
+}

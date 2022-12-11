@@ -1,0 +1,14 @@
+.itemToDo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+ul{
+    padding: 0;
+    width: 100%;
+}
+.itemToDo div{
+    width: 100%;
+    text-align: left;
+}
